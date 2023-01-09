@@ -1,0 +1,32 @@
+*{
+    text-size-adjust: 40px;
+    padding: 13px;
+    background-color: antiquewhite;
+    text-align: left;
+    padding-left: 10px;
+    padding-inline-start: 10px;
+}
+input{
+    align-items:flex-end;
+    box-sizing:content-box
+}
+h1{
+    text-align: center;
+    background-color: rgb(41, 145, 119);
+    padding: 10px;
+}
+h2{
+     background-color: rgb(41, 145,119);
+     padding: 10px;
+}
+#submit{
+    background-color: rgb(41, 145,119);
+    text-decoration: aqua;
+    padding: auto;
+    text-size-adjust: 10px;
+}
+#male{
+    background-origin: padding-box;
+    border-color: rgb(191, 197, 208);
+    
+}
